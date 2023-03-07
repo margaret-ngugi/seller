@@ -1,0 +1,70 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    background-color: blueviolet;
+}
+.A{
+    margin-left: 10%;
+    font-size: 70px;
+}
+.set{
+    margin-left: 30%;
+    height: 200px;
+    width:  180px;
+} 
+.B{
+    margin-left: 10%;
+    font-size: 50px;
+}
+.ul,li{
+    margin-left: 10%;
+    
+}
+.C{
+    display: flex;
+}
+.D{
+    margin-left: 10%; 
+    font-size: 50px;
+}
+.E{
+    display: flex;
+}
+.F{
+    margin-left: 10%;
+    font-size: 50px;
+}
+.G{
+    margin-left: 10%;
+    
+    
+}
+.H{
+    margin-left: 50%;
+    margin-top: -15%;
+    
+    
+}
+.K{
+    margin-left: 50%;
+    
+    
+    
+
+}
+.M{
+    margin-left: 5%;
+    margin-top: -10%;   
+
+}
+.Z{
+    display: flex;
+    justify-content: space-between;
+    font-size: 30px;
+    font-weight: bold;
+}
+.set{
+    border-radius: 5%;
+    font-weight: bold;
+    padding: 5%;
+}
